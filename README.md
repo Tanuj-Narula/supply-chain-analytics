@@ -216,8 +216,8 @@ The cleaned dataset connects into a multi-page Power BI dashboard designed for e
 ### 1. Clone the Repository
 
 ```bash
-git clone <repo_url>
-cd <project_folder>
+git clone https://github.com/Tanuj-Narula/supply-chain-analytics.git
+cd supply-chain-analytics
 ```
 
 ### 2. Set Up Python Environment
